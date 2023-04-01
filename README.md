@@ -1,1 +1,1 @@
-# primeira-strutura-bdazure
+# Exercício banco de dados pedido vendas
