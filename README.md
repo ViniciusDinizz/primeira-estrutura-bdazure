@@ -1,1 +1,1 @@
-# Exercício banco de dados pedido vendas
+# Exercício banco de dados, pedido/vendas
